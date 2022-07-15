@@ -1,0 +1,45 @@
+Starbucks_1 -> 57 23, Wayne, NJ 07470, United States
+Starbucks_2 -> 546 Passaic Ave, West Caldwell, NJ 07006, United States
+Starbucks_3 -> 572 Valley Rd, Montclair, NJ 07043, United States
+Starbucks_4 -> 1606 Rte 202, NJ-23, Wayne, NJ 07470, United States
+Starbucks_5 -> 483 Franklin Ave, Nutley, NJ 07110, United States
+Starbucks_6 -> 360 3, Clifton, NJ 07014, United States
+Starbucks_7 -> 43 Eisenhower Pkwy, Roseland, NJ 07068, United States
+Starbucks_8 -> 16 31 208, Fair Lawn, NJ 07410, United States
+Starbucks_9 -> 1809 Rte 202, NJ-23, Wayne, NJ 07470, United States
+Starbucks_10 -> 1118 Hamburg Turnpike, Wayne, NJ 07470, United States
+Starbucks_11 -> 710 Bloomfield Ave, Glen Ridge, NJ 07028, United States
+Starbucks_12 -> 30 Kingsland Rd, Clifton, NJ 07014, United States
+Starbucks_13 -> 96 Meadow Rd, Rutherford, NJ 07070, United States
+Starbucks_14 -> 10 NJ-17, East Rutherford, NJ 07073, United States
+Starbucks_15 -> 224 Rock Rd, Glen Rock, NJ 07452, United States
+Starbucks_16 -> 360 Essex St, Hackensack, NJ 07601, United States
+Starbucks_17 -> 65 Rte 4, Paramus, NJ 07652, United States
+Starbucks_18 -> 177 17, Paramus, NJ 07652, United States
+Starbucks_19 -> 1429 46, Parsippany-Troy Hills, NJ 07054, United States
+Starbucks_20 -> 143 Passaic Ave, Kearny, NJ 07032, United States
+Starbucks_21 -> 240, Paramus, NJ 07652, United States
+Starbucks_22 -> 370 17, Paramus, NJ 07652, United States
+
+Target_1 -> 30 Kingsland Rd, Clifton, NJ 07014, United States
+Target_2 -> 632 US-46 E, Fairfield, NJ 07004, United States
+Target_3 -> 630 Main St, Hackensack, NJ 07601, United States
+Target_4 -> 29 Vervalen St, Closter, NJ 07624, United States
+Target_5 -> 40 W 225th St #50, The Bronx, NY 10463, United States
+Target_6 -> 7101 Tonnelle Ave, North Bergen, NJ 07047, United States
+Target_7 -> 543 River Rd, Edgewater, NJ 07020, United States
+Target_8 -> 632 US-46 E, Fairfield, NJ 07004, United States
+Target_9 -> 500 E Sandford Blvd, Mt Vernon, NY 10550, United States
+Target_10 -> 815 Hutchinson River Pkwy, The Bronx, NY 10465, United States
+Target_11 -> 100 14th St, Jersey City, NJ 07310, United States
+Target_12 -> 94 NJ-23, Riverdale, NJ 07457, United States
+Target_13 -> 795 Columbus Ave, New York, NY 10025, United States
+Target_14 -> 630 Main St, Hackensack, NJ 07601, United States
+Target_15 -> 13505 20th Ave, Queens, NY 11356, United States
+Target_16 -> 400 Grand St, New York, NY 10002, United States
+Target_17 -> 1157 US-46, Parsippany-Troy Hills, NJ 07054, United States
+Target_18 -> 130 NJ-10 Ste 1, East Hanover, NJ 07936, United States
+Target_19 -> 632 US-46 E, Fairfield, NJ 07004, United States
+Target_20 -> 94 NJ-23, Riverdale, NJ 07457, United States
+Target_21 -> 1157 US-46, Parsippany-Troy Hills, NJ 07054, United States
+Target_22 -> 2690 US-22, Union, NJ 07083, United States

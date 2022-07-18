@@ -43,3 +43,26 @@ Target_19 -> 632 US-46 E, Fairfield, NJ 07004, United States
 Target_20 -> 94 NJ-23, Riverdale, NJ 07457, United States
 Target_21 -> 1157 US-46, Parsippany-Troy Hills, NJ 07054, United States
 Target_22 -> 2690 US-22, Union, NJ 07083, United States
+
+Walmart_1 -> 900 Springfield Rd, Union, NJ 07083, United States
+Walmart_2 -> 1501 US-22, Watchung, NJ 07069, United States*
+Walmart_3 -> 150 Harrison Ave, Kearny, NJ 07032, United States
+Walmart_4 -> 174 Passaic St, Garfield, NJ 07026, United States
+Walmart_5 -> 48 NJ-23, Riverdale, NJ 07457, United States
+Walmart_6 -> 300 Wootton St, Boonton, NJ 07005, United States
+Walmart_7 -> 250 NY-59, Suffern, NY 10901, United States
+Walmart_8 -> 189 US-46, Saddle Brook, NJ 07663, United States
+Walmart_9 -> 235 Ridgedale Ave, Cedar Knolls, NJ 07927, United States
+Walmart_10 -> 1 Teterboro Landing Dr, Teterboro, NJ 07608, United States
+Walmart_11 -> 400 Park Plaza Dr, Secaucus, NJ 07094, United States
+Walmart_12 -> 2100 88th St, North Bergen, NJ 07047, United States
+Walmart_13 -> 26 Hampton House Rd, Newton, NJ 07860, United States
+Walmart_14 -> 288 Larkin Dr, Monroe, NY 10950, United States
+Walmart_15 -> 500 Bayonne Crossing Way, Bayonne, NJ 07002, United States
+Walmart_16 -> 1303 Centennial Ave, Piscataway, NJ 08854, United States
+Walmart_17 -> 470 NY-211 E, Middletown, NY 10940, United States
+Walmart_18 -> 2220 NJ-27, Edison, NJ 08817, United States
+Walmart_19 -> 77 Green Acres Rd S, Valley Stream, NY 11581, United States
+Walmart_20 -> 220 Route 6 & 209, Milford, PA 18337, United States
+Walmart_21 -> 979 US-1, North Brunswick Township, NJ 08902, United States
+Walmart_22 -> 290 NJ-18, East Brunswick, NJ 08816, United States
